@@ -1,4 +1,4 @@
-# VideoDownloaders
+# Video Downloaders for YouTube and X
 Python Scripts to download videos from YouTube and X
 
 Download from YouTube:
